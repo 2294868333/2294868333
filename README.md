@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<img src="https://img1.baidu.com/it/u=1153788863,631958168&fm=26&fmt=auto&gp=0.jpg" alt="logo" height="160" align="right" width="50%" />
 
 # Hi,I'm 李东岳! 👋
 嵌入式工程师
 
-<img src="https://github-readme-stats.vercel.app/api?username=2294868333&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -33,3 +33,5 @@ Here are some ideas to get you started:
 [![Github](https://img.shields.io/github/followers/duktig666?label=Github&style=social)](https://github.com/2294868333)
 [![CSDN](https://img.shields.io/badge/-CSDN-c14438?style=flat-square&logo=C&logoColor=white)](https://blog.csdn.net/qq_49884358?spm=1010.2135.3001.5343)
 [![Gmail Badge](https://img.shields.io/badge/gmail-2294868333@qq.com-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:l13029095571@163.com)](mailto:l13029095571@163.com)
+## Interesting stats
+<img src="https://github-readme-stats.vercel.app/api?username=2294868333&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
