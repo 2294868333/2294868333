@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 
 
-# Hi,I'm RenShiWei! 👋
-后端开发工程师
+# Hi,I'm 李东岳! 👋
+嵌入式工程师
 
 <img src="https://github-readme-stats.vercel.app/api?username=duktig666&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ## Follow Me
-![访问个人主页数量](https://komarev.com/ghpvc/?username=duktig666&color=green)
+![访问个人主页数量](https://komarev.com/ghpvc/?username=2294868333&color=green)
 [![个人博客](https://img.shields.io/badge/-个人博客（duktig.cn）-c14438?style=flat-square&logo=B&logoColor=white)](https://duktig.cn/)
 [![Github](https://img.shields.io/github/followers/duktig666?label=Github&style=social)](https://github.com/duktig666)
 [![Gitee](https://img.shields.io/badge/-码云-EA4335?style=flat-square&logo=Gitee&logoColor=white)](https://gitee.com/koala010)
