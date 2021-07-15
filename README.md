@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hi,I'm 李东岳! 👋
 嵌入式工程师
 
-<img src="https://img0.baidu.com/it/u=4266207041,4016246936&fm=26&fmt=auto&gp=0.jpg" alt="logo" height="250" align="right" width="50%" />
+<img src="http://5b0988e595225.cdn.sohucs.com/images/20180115/017a6071c46a420fa44d5d682c7497af.gif" alt="logo" height="250" align="right" width="50%" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
