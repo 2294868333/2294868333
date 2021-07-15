@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img1.baidu.com/it/u=1153788863,631958168&fm=26&fmt=auto&gp=0.jpg" alt="logo" height="160" align="right" width="50%" />
+<img src="https://img1.baidu.com/it/u=1153788863,631958168&fm=26&fmt=auto&gp=0.jpg" alt="logo" height="250" align="right" width="50%" />
 
 # Hi,I'm 李东岳! 👋
 嵌入式工程师
