@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ## Follow Me
-![访问个人主页数量](https://komarev.com/ghpvc/?username=2294868333&color=green)
 [![Github](https://img.shields.io/github/followers/duktig666?label=Github&style=social)](https://github.com/2294868333)
 [![CSDN](https://img.shields.io/badge/-CSDN-c14438?style=flat-square&logo=C&logoColor=white)](https://blog.csdn.net/qq_49884358?spm=1010.2135.3001.5343)
-[![Gmail Badge](https://img.shields.io/badge/gmail-1487660836@qq.com-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:duktig666@163.com)](mailto:duktig666@163.com)
+[![Gmail Badge](https://img.shields.io/badge/gmail-2294868333@qq.com-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:l13029095571@163.com)](mailto:l13029095571@163.com)
