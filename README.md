@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 [![CSDN](https://img.shields.io/badge/-CSDN-c14438?style=flat-square&logo=C&logoColor=white)](https://blog.csdn.net/qq_49884358?spm=1010.2135.3001.5343)
 [![Gmail Badge](https://img.shields.io/badge/gmail-2294868333@qq.com-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:l13029095571@163.com)](mailto:l13029095571@163.com)
 ## Interesting stats
-<img src="https://github-readme-stats.vercel.app/api?username=2294868333&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=2294868333&show_icons=true&theme=vue" alt="logo" height="160" align="left" width="50%" />
