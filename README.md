@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hi,I'm 李东岳! 👋
 嵌入式工程师
 
-<img src="https://github-readme-stats.vercel.app/api?username=duktig666&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=2294868333&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
